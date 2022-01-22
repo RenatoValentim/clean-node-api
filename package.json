@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "tmp": "jest --init",
     "test": "jest --watch --passWithNoTests",
     "test:staged": "jest --passWithNoTests",
     "prepare": "husky install"
